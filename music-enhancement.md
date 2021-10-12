@@ -1,5 +1,5 @@
 ---
-layout: music-enhancement
+layout: default
 title: "Music Enhancement"
 permalink: /music-enhancement/
 samples:
