@@ -2,6 +2,7 @@
 layout: music-enhancement
 title: "Music Enhancement"
 permalink: /music-enhancement/
+sample: Test Audio.m4a
 ingredients:
   - name: Test Audio.m4a
   - name: Test Audio.m4a
