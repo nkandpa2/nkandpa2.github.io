@@ -11,3 +11,8 @@ samples:
 ## Insert Authors
 
 This is a stand-in for a couple sentences about the project.  This is a stand-in for a couple sentences about the project.  This is a stand-in for a couple sentences about the project.  This is a stand-in for a couple sentences about the project.  This is a stand-in for a couple sentences about the project.  This is a stand-in for a couple sentences about the project.  This is a stand-in for a couple sentences about the project.  
+
+| Syntax      | Description | Test Text     |
+| :---        |    :----:   |          ---: |
+| Header      | Title       | Here's this   |
+| Paragraph   | Text        | And more      |
