@@ -1,0 +1,14 @@
+---
+layout: default
+---
+<div class="content">
+{{ content }}
+</div>
+
+<div class="audio samples">
+    <div class="column">
+        {% for item in page.samples %}
+            {% include embed-audio.html src="../assets/{{item.name}}" %}
+        {% endfor %}
+   </div>
+</div>
