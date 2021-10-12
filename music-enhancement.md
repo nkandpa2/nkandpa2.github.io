@@ -1,7 +1,11 @@
 ---
-layout: default
+layout: music-enhancement
 title: "Music Enhancement"
 permalink: /music-enhancement/
+samples:
+  - Test Audio.m4a
+  - Test Audio.m4a
+  - Test Audio.m4a
 ---
 # Insert Paper Title
 ## Insert Authors
