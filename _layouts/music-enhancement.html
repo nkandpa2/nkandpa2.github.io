@@ -29,14 +29,6 @@
 
     <main id="content" class="main-content" role="main">
       {{ content }}
-
-      <div class="ingredients">
-        <ul>
-        {% for item in page.ingredients %}
-          <li>{{item.name}}</li>
-        {% endfor %}
-        </ul>
-      </div>
       
       <table>
         <tr>
@@ -51,25 +43,6 @@
           <td>{% include embed-audio.html src=sample.mel2mel_diffwave %}</td>
         </tr>
         {% endfor %}
-      </table>
-      
-      <table>
-        <tr>
-          <th>Company</th>
-          <th>Contact</th> 
-          <th>Country</th>
-        </tr>
-        <tr>
-          {% assign path = '../assets/' | append: page.sample %}
-          <td>{% include embed-audio.html src=path %}</td>
-          <td>Maria Anders</td> 
-          <td>Germany</td>
-        </tr>
-        <tr>
-          <td>Centro comercial Moctezuma</td>
-          <td>Francisco Chang</td> 
-          <td>Mexico</td>
-        </tr>
       </table>
       
       <footer class="site-footer">
