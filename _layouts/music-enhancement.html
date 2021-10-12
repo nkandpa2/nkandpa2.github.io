@@ -40,6 +40,21 @@
       
       <table>
         <tr>
+          <th>Noisy</th>
+          <th>Clean</th> 
+          <th>Mel2Mel + Diffwave</th>
+        </tr>
+        {% for sample in page.samples %}
+        <tr>
+          <td>{% include embed-audio.html src=sample.noisy %}<\td>
+          <td>{% include embed-audio.html src=sample.clean %}<\td>
+          <td>{% include embed-audio.html src=sample.mel2mel_diffwave %}<\td>
+        <tr>
+        {% endfor %}
+      </table>
+      
+      <table>
+        <tr>
           <th>Company</th>
           <th>Contact</th> 
           <th>Country</th>
