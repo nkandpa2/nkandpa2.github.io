@@ -46,10 +46,10 @@
         </tr>
         {% for sample in page.samples %}
         <tr>
-          <td>{% include embed-audio.html src=sample.noisy %}<\td>
-          <td>{% include embed-audio.html src=sample.clean %}<\td>
-          <td>{% include embed-audio.html src=sample.mel2mel_diffwave %}<\td>
-        <tr>
+          <td>{% include embed-audio.html src=sample.noisy %}</td>
+          <td>{% include embed-audio.html src=sample.clean %}</td>
+          <td>{% include embed-audio.html src=sample.mel2mel_diffwave %}</td>
+        </tr>
         {% endfor %}
       </table>
       
