@@ -6,10 +6,6 @@ ingredients:
   - name: Test Audio.m4a
   - name: Test Audio.m4a
   - name: Test Audio.m4a
-sample_types:
-  - name: Noisy
-  - name: Clean
-  - name: Mel2Mel + Diffwave
 ---
 # Insert Paper Title
 ## Insert Authors
