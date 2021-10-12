@@ -30,17 +30,21 @@
     <main id="content" class="main-content" role="main">
       {{ content }}
       
-      <table border="1" width="100%" ID="Table2" style="margin: 0px;">
+      <table>
         <tr>
           <th>Noisy</th>
           <th>Clean</th> 
           <th>Mel2Mel + Diffwave</th>
+          <th>Mel2Mel + Griffin-Lim</th>
+          <th>Demucs</th>
         </tr>
         {% for sample in page.samples %}
         <tr>
           <td>{% include embed-audio.html src=sample.noisy %}</td>
           <td>{% include embed-audio.html src=sample.clean %}</td>
           <td>{% include embed-audio.html src=sample.mel2mel_diffwave %}</td>
+          <td>{% include embed-audio.html src=sample.mel2mel_gl %}</td>
+          <td>{% include embed-audio.html src=sample.demucs %}</td>
         </tr>
         {% endfor %}
       </table>
