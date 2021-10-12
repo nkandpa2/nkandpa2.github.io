@@ -12,7 +12,7 @@ samples:
 
 This is a stand-in for a couple sentences about the project.  This is a stand-in for a couple sentences about the project.  This is a stand-in for a couple sentences about the project.  This is a stand-in for a couple sentences about the project.  This is a stand-in for a couple sentences about the project.  This is a stand-in for a couple sentences about the project.  This is a stand-in for a couple sentences about the project.  
 
-| Syntax      | Description | Test Text     |
+| Clean      | Noisy | Mel2Mel + Diffwave     |
 | :---        |    :----:   |          ---: |
 | Header      | Title       | Here's this   |
 | Paragraph   | Text        | And more      |
