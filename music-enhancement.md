@@ -4,4 +4,4 @@ title: "Music Enhancement"
 permalink: /music-enhancement/
 ---
 
-"../assets/Test Audio.m4a"
+{% include embed-audio.html src="/assets/Test Audio.m4a" %}
