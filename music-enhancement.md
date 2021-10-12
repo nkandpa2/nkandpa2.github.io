@@ -2,7 +2,16 @@
 layout: music-enhancement
 title: "Music Enhancement"
 permalink: /music-enhancement/
-sample: Test Audio.m4a
+samples: 
+  - noisy: ../assets/Test Audio.m4a
+    clean: ../assets/Test Audio.m4a
+    mel2mel_diffwave: ../assets/Test Audio.m4a
+  - noisy: ../assets/Test Audio.m4a
+    clean: ../assets/Test Audio.m4a
+    mel2mel_diffwave: ../assets/Test Audio.m4a
+  - noisy: ../assets/Test Audio.m4a
+    clean: ../assets/Test Audio.m4a
+    mel2mel_diffwave: ../assets/Test Audio.m4a
 ingredients:
   - name: Test Audio.m4a
   - name: Test Audio.m4a
