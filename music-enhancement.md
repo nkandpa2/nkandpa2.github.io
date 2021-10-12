@@ -6,12 +6,18 @@ samples:
   - noisy: ../assets/Test Audio.m4a
     clean: ../assets/Test Audio.m4a
     mel2mel_diffwave: ../assets/Test Audio.m4a
+    mel2mel_gl: ../assets/Test Audio.m4a
+    demucs: ../assets/Test Audio.m4a
   - noisy: ../assets/Test Audio.m4a
     clean: ../assets/Test Audio.m4a
     mel2mel_diffwave: ../assets/Test Audio.m4a
+    mel2mel_gl: ../assets/Test Audio.m4a
+    demucs: ../assets/Test Audio.m4a
   - noisy: ../assets/Test Audio.m4a
     clean: ../assets/Test Audio.m4a
     mel2mel_diffwave: ../assets/Test Audio.m4a
+    mel2mel_gl: ../assets/Test Audio.m4a
+    demucs: ../assets/Test Audio.m4a
 ---
 # Insert Paper Title
 ## Insert Authors
