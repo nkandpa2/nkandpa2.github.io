@@ -45,7 +45,8 @@
           <th>Country</th>
         </tr>
         <tr>
-          <td>{% include embed-audio.html src="{{'../assets/' + {{page.sample}}}}" %}</td>
+          {% assign path = '../assets/' | append: page.sample %}
+          <td>{% include embed-audio.html src={{path}} %}</td>
           <td>Maria Anders</td> 
           <td>Germany</td>
         </tr>
