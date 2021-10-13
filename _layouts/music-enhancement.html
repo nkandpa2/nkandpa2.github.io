@@ -90,10 +90,10 @@
           <th>Low-Quality</th>
           <th>Mel2Mel + Diffwave</th>
         </tr>
-        {% for sample in page.samples %}
+        {% for sample in page.real_world_samples %}
         <tr>
           <td>{% include embed-audio.html src=sample.noisy %}</td>
-          <td>{% include embed-audio.html src=sample.mel2mel_diffwave %}</td>
+          <td>{% include embed-audio.html src=sample.enhanced %}</td>
         </tr>
         {% endfor %}
       </table>
