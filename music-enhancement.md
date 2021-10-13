@@ -2,22 +2,29 @@
 layout: music-enhancement
 title: "Music Enhancement"
 permalink: /music-enhancement/
-samples: 
-  - noisy: ../assets/Test Audio.m4a
-    clean: ../assets/Test Audio.m4a
-    mel2mel_diffwave: ../assets/Test Audio.m4a
-    mel2mel_gl: ../assets/Test Audio.m4a
-    demucs: ../assets/Test Audio.m4a
-  - noisy: ../assets/Test Audio.m4a
-    clean: ../assets/Test Audio.m4a
-    mel2mel_diffwave: ../assets/Test Audio.m4a
-    mel2mel_gl: ../assets/Test Audio.m4a
-    demucs: ../assets/Test Audio.m4a
-  - noisy: ../assets/Test Audio.m4a
-    clean: ../assets/Test Audio.m4a
-    mel2mel_diffwave: ../assets/Test Audio.m4a
-    mel2mel_gl: ../assets/Test Audio.m4a
-    demucs: ../assets/Test Audio.m4a
+samples:
+  val:
+    - 1133
+    - 1151
+    - 1860
+    - 1901
+    - 1931
+    - 2249
+    - 2525
+    - 371
+    - 432
+    - 736
+    - 815
+    - 826
+    - 836
+    - 908
+    - 92
+  test:
+    - 1194
+    - 3017
+    - 3187
+    - 4419
+    - 5829
 ---
 # Music Enhancement via Image Translation and Vocoding
 ## Nikhil Kandpal, Oriol Nieto, Zeyu Jin
