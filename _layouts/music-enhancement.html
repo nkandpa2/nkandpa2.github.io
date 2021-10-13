@@ -89,11 +89,13 @@
         <tr>
           <th>Low-Quality</th>
           <th>Mel2Mel + Diffwave</th>
+          <th>Source</th>
         </tr>
         {% for sample in page.real_world_samples %}
         <tr>
           <td>{% include embed-audio.html src=sample.noisy %}</td>
           <td>{% include embed-audio.html src=sample.enhanced %}</td>
+          <td><a href=sample.source>link</a></td>
         </tr>
         {% endfor %}
       </table>
