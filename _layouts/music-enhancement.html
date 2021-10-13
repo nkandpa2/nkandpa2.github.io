@@ -42,23 +42,38 @@
       <table style="margin-left:auto;margin-right:auto;">
         <tr>
           <th>Low-Quality</th>
-          <th>High-Quality</th> 
           <th>Mel2Mel + Diffwave</th>
           <th>Mel2Mel + Griffin-Lim</th>
           <th>Demucs</th>
+          <th>High-Quality</th> 
         </tr>
         {% for sample_idx in page.samples.val %}
         {% assign noisy_sample = "../assets/val_sample_" | append: sample_idx | append: "_aug.wav" %}
-        {% assign clean_sample = "../assets/val_sample_" | append: sample_idx | append: "_clean.wav" %}
         {% assign mel2mel_d_sample = "../assets/val_sample_" | append: sample_idx | append: "_mel2mel_diffwave.wav" %}
         {% assign mel2mel_gl_sample = "../assets/val_sample_" | append: sample_idx | append: "_mel2mel_gl.wav" %}
         {% assign demucs_sample = "../assets/val_sample_" | append: sample_idx | append: "_demucs.wav" %}
+        {% assign clean_sample = "../assets/val_sample_" | append: sample_idx | append: "_clean.wav" %}
         <tr>
           <td>{% include embed-audio.html src=noisy_sample %}</td>
-          <td>{% include embed-audio.html src=clean_sample %}</td>
           <td>{% include embed-audio.html src=mel2mel_d_sample %}</td>
           <td>{% include embed-audio.html src=mel2mel_gl_sample %}</td>
           <td>{% include embed-audio.html src=demucs_sample %}</td>
+          <td>{% include embed-audio.html src=clean_sample %}</td>
+        </tr>
+        {% endfor %}
+        
+        {% for sample_idx in page.samples.test %}
+        {% assign noisy_sample = "../assets/test_sample_" | append: sample_idx | append: "_aug.wav" %}
+        {% assign mel2mel_d_sample = "../assets/test_sample_" | append: sample_idx | append: "_mel2mel_diffwave.wav" %}
+        {% assign mel2mel_gl_sample = "../assets/test_sample_" | append: sample_idx | append: "_mel2mel_gl.wav" %}
+        {% assign demucs_sample = "../assets/test_sample_" | append: sample_idx | append: "_demucs.wav" %}
+        {% assign clean_sample = "../assets/test_sample_" | append: sample_idx | append: "_clean.wav" %}
+        <tr>
+          <td>{% include embed-audio.html src=noisy_sample %}</td>
+          <td>{% include embed-audio.html src=mel2mel_d_sample %}</td>
+          <td>{% include embed-audio.html src=mel2mel_gl_sample %}</td>
+          <td>{% include embed-audio.html src=demucs_sample %}</td>
+          <td>{% include embed-audio.html src=clean_sample %}</td>
         </tr>
         {% endfor %}
       </table>
