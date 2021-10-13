@@ -25,6 +25,13 @@ samples:
     - 3187
     - 4419
     - 5829
+real_world_samples:
+  - noisy: ../assets/youtube1_aug.wav
+    enhanced: ../assets/youtube1_enhanced.wav
+  - noisy: ../assets/youtube2_aug.wav
+    enhanced: ../assets/youtube2_enhanced.wav
+  - noisy: ../assets/Adobe_sample_aug.wav
+    enhanced: ../assets/Adobe_sample_enhanced.wav
 ---
 # Music Enhancement via Image Translation and Vocoding
 ## Nikhil Kandpal, Oriol Nieto, Zeyu Jin
