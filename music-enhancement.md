@@ -26,18 +26,18 @@ samples:
     - 4419
     - 5829
 real_world_samples:
-  - noisy: ../assets/youtube1_aug.wav
-    enhanced: ../assets/youtube1_enhanced.wav
-    source: https://www.youtube.com/watch?v=DiEKbaI9eIE
-    source_name: 11 year old George Harliono plays Moonlight Sonata (3rd mov) on a Street Piano in the rain.
-  - noisy: ../assets/youtube2_aug.wav
-    enhanced: ../assets/youtube2_enhanced.wav
-    source: https://www.youtube.com/watch?v=liDQRLYu2EM
-    source_name: Top 10 Street Piano Performances
   - noisy: ../assets/youtube4_aug.wav
     enhanced: ../assets/youtube4_enhanced.wav
     source: https://www.youtube.com/watch?v=7gTYISq4-4E
     source_name: Dance Monkey - Street Musician Karsten Belt (Saxophone)
+  - noisy: ../assets/youtube2_aug.wav
+    enhanced: ../assets/youtube2_enhanced.wav
+    source: https://www.youtube.com/watch?v=liDQRLYu2EM
+    source_name: Top 10 Street Piano Performances
+  - noisy: ../assets/youtube6_aug.wav
+    enhanced: ../assets/youtube6_enhanced.wav
+    source: https://www.youtube.com/watch?v=y5fRqPk04Nk
+    source_name: People Singing In Front Of Other People In Public Compilation
 ---
 # Music Enhancement via Image Translation and Vocoding
 ## Nikhil Kandpal, Oriol Nieto, Zeyu Jin
