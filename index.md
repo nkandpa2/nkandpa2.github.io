@@ -22,3 +22,10 @@ During my Ph.D. I spent a summer interning at Adobe Research in their Audio Rese
     * Eric Wallace, Shi Feng, **Nikhil Kandpal**, Matt Gardner, Sameer Singh
     * EMNLP 2019
 
+## Talks
+
+I really enjoy presenting and engaging in discussions on the projects I've worked on. If any of my talks seem interesting and you'd like to know more, feel free to send me an email.
+
+* [How to Train Your Energy-Based Model](assets/ebm_presentation.pdf) at UNC Image, Vision, and Language Computing Seminar
+    * A survey of energy-based model training methods along with some future directions on how to incorporate EBM-like properties into classifiers
+
