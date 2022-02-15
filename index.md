@@ -3,9 +3,9 @@
 I am a second-year Ph.D. student at the University of North Carolina advised by [Dr. Colin Raffel](https://colinraffel.com/).  I am interested in the theory and application of Machine Learning techniques that remain effective in a variety settings, such as limited or unstructured training data and privacy-aware learning.
 
 ## Publications
-* *Deduplicating Training Data Mitigates Privacy Risks in Language Models*
+* [*Deduplicating Training Data Mitigates Privacy Risks in Language Models*](https://arxiv.org/abs/2202.06539)
     * **Nikhil Kandpal**, Eric Wallace, Colin Raffel
-    * Under Review
+    * In Submission
 * *Music Enhancement via Image Translation and Vocoding* 
     * **Nikhil Kandpal**, Oriol Nieto, Zeyu Jin
     * [Project Website](music-enhancement.md)
