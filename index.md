@@ -4,7 +4,7 @@ I am a second-year Ph.D. student at the University of North Carolina advised by 
 
 ## Experience
 
-I graduated in 2018 from the University of Maryland, College Park with a B.Eng. in Computer Engineering. During my undergrad I did research at the intersection of computer security and deep learning that focused on malware detection.
+I graduated in 2018 from the University of Maryland, College Park with a degree in Computer Engineering. During my undergrad I did research at the intersection of computer security and deep learning that focused on malware detection.
 
 After graduating I worked for a couple years at a [proprietary trading firm](https://sig.com) as a software engineer. 
 
