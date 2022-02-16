@@ -13,7 +13,6 @@ During my Ph.D. I spent a summer interning at Adobe Research in their Audio Rese
 ## Publications
 * [*Deduplicating Training Data Mitigates Privacy Risks in Language Models*](https://arxiv.org/abs/2202.06539)
     * **Nikhil Kandpal**, Eric Wallace, Colin Raffel
-    * In Submission
 * *Music Enhancement via Image Translation and Vocoding* 
     * **Nikhil Kandpal**, Oriol Nieto, Zeyu Jin
     * [Project Website](music-enhancement.md)
