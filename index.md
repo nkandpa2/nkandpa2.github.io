@@ -25,7 +25,8 @@ During my Ph.D. I spent a summer interning at Adobe Research in their Audio Rese
 ## Talks
 
 I really enjoy presenting and engaging in discussions on the projects I've worked on. If any of my talks seem interesting and you'd like to know more, feel free to send me an email.
-
-* [How to Train Your Energy-Based Model](assets/ebm_presentation.pdf) at UNC Image, Vision, and Language Computing Seminar
+* [Memorization, Duplication, and Privacy](assets/memorization_slides.pdf) at UNC Image, Vision, and Language Computing Seminar, January 2022
+    * A presentation about our [paper](https://arxiv.org/abs/2202.06539) on the privacy implications of duplicated token sequences in language model training datasets
+* [How to Train Your Energy-Based Model](assets/ebm_slides.pdf) at UNC Image, Vision, and Language Computing Seminar, November 2020
     * A survey of energy-based model training methods along with some future directions on how to incorporate EBM-like properties into classifiers
 
