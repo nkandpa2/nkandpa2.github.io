@@ -41,7 +41,7 @@ real_world_samples:
 ---
 # Music Enhancement via Image Translation and Vocoding
 ## Nikhil Kandpal, Oriol Nieto, Zeyu Jin
-
+<h3 style="text-align:center;"><a href="">Paper</a> &nbsp; &nbsp; &nbsp; <a href="https://github.com/nkandpa2/music_enhancement">Code</a></h3>
 <p style="text-align:center;"><img src="../assets/music_enhancement_figure.pdf" alt="Mel2Mel+Diffwave Model Overview" style="width:90%;"/></p>
 
 ### Abstract
