@@ -10,16 +10,14 @@ After graduating I worked for a couple years at a [proprietary trading firm](htt
 
 During my Ph.D. I spent a summer interning at Adobe Research in their Audio Research Group. There, I worked with [Oriol Nieto](https://www.urinieto.com/about/) and [Zeyu Jin](https://research.adobe.com/person/zeyu-jin/) on [enhancing amateur music recordings](music-enhancement.md) to sound like they had been recorded in a professional environment
 
-## Publications
-* [*Deduplicating Training Data Mitigates Privacy Risks in Language Models*](https://arxiv.org/abs/2202.06539)
+## Publications and Preprints
+* [Deduplicating Training Data Mitigates Privacy Risks in Language Models](https://arxiv.org/abs/2202.06539)
     * **Nikhil Kandpal**, Eric Wallace, Colin Raffel
-* *Music Enhancement via Image Translation and Vocoding* 
+* [Music Enhancement via Image Translation and Vocoding](https://arxiv.org/abs/2204.13289) at *IEEE ICASSP 2022*
     * **Nikhil Kandpal**, Oriol Nieto, Zeyu Jin
     * [Project Website](music-enhancement.md)
-    * ICASSP 2022
-* [*Universal Adversarial Triggers for Attacking and Analyzing NLP*](https://arxiv.org/abs/1908.07125)
+* [*Universal Adversarial Triggers for Attacking and Analyzing NLP*](https://arxiv.org/abs/1908.07125) at *EMNLP 2019*
     * Eric Wallace, Shi Feng, **Nikhil Kandpal**, Matt Gardner, Sameer Singh
-    * EMNLP 2019
 
 ## Talks
 
