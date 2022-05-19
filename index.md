@@ -11,19 +11,21 @@ After graduating I worked for a couple years at a [proprietary trading firm](htt
 During my Ph.D. I spent a summer interning at Adobe Research in their Audio Research Group. There, I worked with [Oriol Nieto](https://www.urinieto.com/about/) and [Zeyu Jin](https://research.adobe.com/person/zeyu-jin/) on [enhancing amateur music recordings](music-enhancement.md) to sound like they had been recorded in a professional environment
 
 ## Publications and Preprints
-* [Deduplicating Training Data Mitigates Privacy Risks in Language Models](https://arxiv.org/abs/2202.06539)
+* [Deduplicating Training Data Mitigates Privacy Risks in Language Models](https://arxiv.org/abs/2202.06539) at ***ICML 2022***
     * **Nikhil Kandpal**, Eric Wallace, Colin Raffel
-* [Music Enhancement via Image Translation and Vocoding](https://arxiv.org/abs/2204.13289) at *IEEE ICASSP 2022*
+* [Music Enhancement via Image Translation and Vocoding](https://arxiv.org/abs/2204.13289) at ***IEEE ICASSP 2022***
     * **Nikhil Kandpal**, Oriol Nieto, Zeyu Jin
     * [Project Website](music-enhancement.md)
-* [*Universal Adversarial Triggers for Attacking and Analyzing NLP*](https://arxiv.org/abs/1908.07125) at *EMNLP 2019*
+* [Universal Adversarial Triggers for Attacking and Analyzing NLP](https://arxiv.org/abs/1908.07125) at ***EMNLP 2019***
     * Eric Wallace, Shi Feng, **Nikhil Kandpal**, Matt Gardner, Sameer Singh
 
 ## Talks
 
-I really enjoy talking about stuff I'm working on. If any of these presentations seem interesting and you'd like to know more, feel free to send me an email.
-* [Duplication, Memorization, and Privacy](assets/memorization_slides.pdf) at UNC Image, Vision, and Language Seminar, January 2022
-    * A presentation about our [paper](https://arxiv.org/abs/2202.06539) on the privacy implications of duplicated token sequences in language model training datasets
-* [How to Train Your Energy-Based Model](assets/ebm_slides.pdf) at UNC Image, Vision, and Language Computing Seminar, November 2020
-    * A survey of energy-based model training methods along with some future directions on how to incorporate EBM-like properties into classifiers
+If any of these presentations seem interesting and you'd like to know more, feel free to send me an email.
+* [Music Enhancement via Image Translation and Vocoding](https://youtu.be/K3C__kpr7M8) at ***IEEE ICASSP***, May 2022
+    * A video presentation of our [paper](https://arxiv.org/abs/2204.13289) on enhancing amateur music recordings 
+* [Duplication, Memorization, and Privacy](assets/memorization_slides.pdf) at ***UNC Image, Vision, and Language Seminar***, January 2022
+    * A presentation of our [paper](https://arxiv.org/abs/2202.06539) on the privacy of language models trained on web-scraped datasets
+* [How to Train Your Energy-Based Model](assets/ebm_slides.pdf) at ***UNC Image, Vision, and Language Seminar***, November 2020
+    * A survey of EBM training methods and ideas for incorporating EBM-like properties into classifiers
 
