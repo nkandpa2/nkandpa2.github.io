@@ -26,10 +26,12 @@ During my Ph.D. I've worked at Adobe with [Oriol Nieto](https://www.urinieto.com
 ## Talks
 
 If any of these presentations seem interesting and you'd like to know more, feel free to send me an email.
+* [Deduplicating Training Data Mitigates Privacy Risks in Language Models](https://slideslive.com/38983424) at ***ICML***, June 2022
+    * A video presentation of our [paper](https://arxiv.org/abs/2202.06539) on the privacy of language models trained on web-scraped datasets
 * [Music Enhancement via Image Translation and Vocoding](https://youtu.be/K3C__kpr7M8) at ***IEEE ICASSP***, May 2022
     * A video presentation of our [paper](https://arxiv.org/abs/2204.13289) on enhancing amateur music recordings 
 * [Duplication, Memorization, and Privacy](assets/memorization_slides.pdf) at ***UNC Image, Vision, and Language Seminar***, January 2022
-    * A presentation of our [paper](https://arxiv.org/abs/2202.06539) on the privacy of language models trained on web-scraped datasets
+    * A presentation on the type of training data leaked by language models
 * [How to Train Your Energy-Based Model](assets/ebm_slides.pdf) at ***UNC Image, Vision, and Language Seminar***, November 2020
     * A survey of EBM training methods and ideas for incorporating EBM-like properties into classifiers
 
