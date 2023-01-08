@@ -1,6 +1,6 @@
 ## About Me <img src="assets/Kody Test.jpg" style="border:5px double #157878; float:right; max-width:20%; margin-left:2%; margin-top:2%">
 
-I am a second-year Ph.D. student at the University of North Carolina advised by [Dr. Colin Raffel](https://colinraffel.com/).  I am interested in the theory and application of Machine Learning techniques that remain effective in a variety settings, such as limited or unstructured training data and privacy-aware learning.
+I am a third-year Ph.D. student at the University of North Carolina advised by [Dr. Colin Raffel](https://colinraffel.com/).  Most of my research is on understanding the relationship between ML model behavior and the data that it was trained on. I am also interested in privacy and security of ML models, specifically language models.
 
 ## Experience
 
@@ -8,9 +8,13 @@ I graduated in 2018 from the University of Maryland, College Park with a degree 
 
 After graduating I worked for a couple years at a [proprietary trading firm](https://sig.com) as a software engineer. 
 
-During my Ph.D. I spent a summer interning at Adobe Research in their Audio Research Group. There, I worked with [Oriol Nieto](https://www.urinieto.com/about/) and [Zeyu Jin](https://research.adobe.com/person/zeyu-jin/) on [enhancing amateur music recordings](music-enhancement.md) to sound like they had been recorded in a professional environment
+During my Ph.D. I've worked at Adobe with [Oriol Nieto](https://www.urinieto.com/about/) and [Zeyu Jin](https://research.adobe.com/person/zeyu-jin/) on [enhancing amateur music recordings](music-enhancement.md). I've also worked at the Google Brain Security and Privacy team with [Nicholas Carlini](https://nicholas.carlini.com) on backdoor attacks against language models.
+
+
 
 ## Publications and Preprints
+* [Large Language Models Struggle to Learn Long-Tail Knowledge](https://arxiv.org/abs/2211.08411)
+    * **Nikhil Kandpal**, Haikang Deng, Adam Roberts, Eric Wallace, Colin Raffel 
 * [Deduplicating Training Data Mitigates Privacy Risks in Language Models](https://arxiv.org/abs/2202.06539) at ***ICML 2022***
     * **Nikhil Kandpal**, Eric Wallace, Colin Raffel
 * [Music Enhancement via Image Translation and Vocoding](https://arxiv.org/abs/2204.13289) at ***IEEE ICASSP 2022***
