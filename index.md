@@ -13,7 +13,9 @@ During my Ph.D. I've worked at Adobe with [Oriol Nieto](https://www.urinieto.com
 
 
 ## Publications and Preprints
-* [Large Language Models Struggle to Learn Long-Tail Knowledge](https://arxiv.org/abs/2211.08411)
+* Git-Theta: A Git Extension for Collaborative Development of Machine Learning Models at ***ICML 2023***
+    * **Nikhil Kandpal**\*, Brian Lester*, and 7 others
+* [Large Language Models Struggle to Learn Long-Tail Knowledge](https://arxiv.org/abs/2211.08411) at ***ICML 2023***
     * **Nikhil Kandpal**, Haikang Deng, Adam Roberts, Eric Wallace, Colin Raffel 
 * [Deduplicating Training Data Mitigates Privacy Risks in Language Models](https://arxiv.org/abs/2202.06539) at ***ICML 2022***
     * **Nikhil Kandpal**, Eric Wallace, Colin Raffel
