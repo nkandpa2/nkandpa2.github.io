@@ -20,16 +20,16 @@ During my Ph.D. I've worked at:
     * **Nikhil Kandpal**, Matthew Jagielski, Florian Tramèr, and Nicholas Carlini
 * [Git-Theta: A Git Extension for Collaborative Development of Machine Learning Models](https://arxiv.org/abs/2306.04529) at ***ICML 2023***
     * **Nikhil Kandpal**\*, Brian Lester*, and 7 others
-    * Check out the [Git-Theta project](github.com/r-three/git-theta
-) and the [Collaborative + Communal + Continual ML group](bit.ly/cccml-community
-) for more info
+    * Check out the [Git-Theta project](https://github.com/r-three/git-theta
+) and the [Collaborative + Communal + Continual ML group](https://bit.ly/cccml-community
+)
 * [Large Language Models Struggle to Learn Long-Tail Knowledge](https://arxiv.org/abs/2211.08411) at ***ICML 2023***
     * **Nikhil Kandpal**, Haikang Deng, Adam Roberts, Eric Wallace, Colin Raffel 
 * [Deduplicating Training Data Mitigates Privacy Risks in Language Models](https://arxiv.org/abs/2202.06539) at ***ICML 2022***
     * **Nikhil Kandpal**, Eric Wallace, Colin Raffel
 * [Music Enhancement via Image Translation and Vocoding](https://arxiv.org/abs/2204.13289) at ***IEEE ICASSP 2022***
     * **Nikhil Kandpal**, Oriol Nieto, Zeyu Jin
-    * Check out our [project page](music-enhancement.md) for more info
+    * Check out our [project page](music-enhancement.md)
 * [Universal Adversarial Triggers for Attacking and Analyzing NLP](https://arxiv.org/abs/1908.07125) at ***EMNLP 2019***
     * Eric Wallace, Shi Feng, **Nikhil Kandpal**, Matt Gardner, Sameer Singh
 
