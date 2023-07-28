@@ -11,7 +11,7 @@ After graduating I worked for a couple years at a [proprietary trading firm](htt
 During my Ph.D. I've worked at:
 * Adobe Research with [Oriol Nieto](https://www.urinieto.com/about/) and [Zeyu Jin](https://research.adobe.com/person/zeyu-jin/) on [enhancing amateur music recordings](music-enhancement.md)
 * Google Brain with [Nicholas Carlini](https://nicholas.carlini.com) on [backdoor attacks against language models](https://arxiv.org/abs/2307.14692)
-* Google Research with [Peter Kairouz](https://kairouzp.github.io) and [Alina Oprea](https://www.ccs.neu.edu/home/alina/) on user-level privacy attacks against language models
+* Google Research with [Peter Kairouz](https://kairouzp.github.io) and [Alina Oprea](https://www.ccs.neu.edu/home/alina/) on user-level privacy attacks
 
 
 
@@ -36,7 +36,7 @@ During my Ph.D. I've worked at:
 ## Talks
 
 If any of these presentations seem interesting and you'd like to know more, feel free to send me an email.
-* [Large Language Models Struggle to Learn Long-Tail Information](assets/long_tail_slides.pdf) at IBM Research Zurich, February 2023
+* [Large Language Models Struggle to Learn Long-Tail Information](assets/long_tail_slides.pdf) at ***IBM Research Zurich***, February 2023
     * A presentation on two of our papers that analyze LLM behavior through the lens of their pre-training data
 * [Deduplicating Training Data Mitigates Privacy Risks in Language Models](https://slideslive.com/38983424) at ***ICML***, June 2022
     * A video presentation of our [paper](https://arxiv.org/abs/2202.06539) on the privacy of language models trained on web-scraped datasets
