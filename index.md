@@ -8,11 +8,16 @@ I graduated in 2018 from the University of Maryland, College Park with a degree 
 
 After graduating I worked for a couple years at a [proprietary trading firm](https://sig.com) as a software engineer. 
 
-During my Ph.D. I've worked at Adobe with [Oriol Nieto](https://www.urinieto.com/about/) and [Zeyu Jin](https://research.adobe.com/person/zeyu-jin/) on [enhancing amateur music recordings](music-enhancement.md). I've also worked at the Google Brain Security and Privacy team with [Nicholas Carlini](https://nicholas.carlini.com) on backdoor attacks against language models.
+During my Ph.D. I've worked at:
+* Adobe Research with [Oriol Nieto](https://www.urinieto.com/about/) and [Zeyu Jin](https://research.adobe.com/person/zeyu-jin/) on [enhancing amateur music recordings](music-enhancement.md)
+* Google Brain with [Nicholas Carlini](https://nicholas.carlini.com) on [backdoor attacks against language models](https://arxiv.org/abs/2307.14692)
+* Google Research with [Peter Kairouz](https://kairouzp.github.io) and [Alina Oprea](https://www.ccs.neu.edu/home/alina/) on user-level privacy attacks against language models
 
 
 
 ## Publications and Preprints
+* [Backdoor Attacks for In-Context Learning with Language Models](https://arxiv.org/abs/2307.14692) at ***AdvML Frontiers 2023***
+    * **Nikhil Kandpal**, Matthew Jagielski, Florian Tramèr, and Nicholas Carlini
 * [Git-Theta: A Git Extension for Collaborative Development of Machine Learning Models](https://arxiv.org/abs/2306.04529) at ***ICML 2023***
     * **Nikhil Kandpal**\*, Brian Lester*, and 7 others
     * Check out the [Git-Theta project](github.com/r-three/git-theta
