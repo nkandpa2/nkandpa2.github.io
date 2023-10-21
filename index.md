@@ -1,6 +1,6 @@
 ## About Me <img src="assets/Kody Test.jpg" style="border:5px double #157878; float:right; max-width:20%; margin-left:2%; margin-top:2%">
 
-I am a third-year Ph.D. student at the University of North Carolina advised by [Dr. Colin Raffel](https://colinraffel.com/).  Most of my research is on understanding the relationship between ML model behavior and the data that it was trained on. I am also interested in privacy and security of ML models, specifically language models.
+I am a fourth-year Ph.D. student at the University of Toronto advised by [Dr. Colin Raffel](https://colinraffel.com/).  Most of my research is on understanding the relationship between ML model behavior and the data that it was trained on. I am also interested in privacy and security of ML models, specifically language models.
 
 ## Experience
 
@@ -11,11 +11,13 @@ After graduating I worked for a couple years at a [proprietary trading firm](htt
 During my Ph.D. I've worked at:
 * Adobe Research with [Oriol Nieto](https://www.urinieto.com/about/) and [Zeyu Jin](https://research.adobe.com/person/zeyu-jin/) on [enhancing amateur music recordings](music-enhancement.md)
 * Google Brain with [Nicholas Carlini](https://nicholas.carlini.com) on [backdoor attacks against language models](https://arxiv.org/abs/2307.14692)
-* Google Research with [Peter Kairouz](https://kairouzp.github.io) and [Alina Oprea](https://www.ccs.neu.edu/home/alina/) on user-level privacy attacks
+* Google Research with [Peter Kairouz](https://kairouzp.github.io) and [Alina Oprea](https://www.ccs.neu.edu/home/alina/) on [user-level privacy attacks](https://arxiv.org/abs/2310.09266)
 
 
 
 ## Publications and Preprints
+* [User Inference Attacks Against Large Language Models](https://arxiv.org/abs/2310.09266)
+    * **Nikhil Kandpal**, Krishna Pillutla, Alina Oprea, Peter Kairouz, Christopher A. Choquette-Choo, and Zheng Xu
 * [Backdoor Attacks for In-Context Learning with Language Models](https://arxiv.org/abs/2307.14692) at ***AdvML Frontiers 2023***
     * **Nikhil Kandpal**, Matthew Jagielski, Florian Tramèr, and Nicholas Carlini
 * [Git-Theta: A Git Extension for Collaborative Development of Machine Learning Models](https://arxiv.org/abs/2306.04529) at ***ICML 2023***
