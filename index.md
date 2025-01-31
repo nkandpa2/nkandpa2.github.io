@@ -19,8 +19,8 @@ During my Ph.D. I've worked at:
 * [AttriBoT: A Bag of Tricks for Efficiently Approximating Leave-One-Out Context Attribution](https://arxiv.org/abs/2411.15102) at **ICLR 2025**
     * Fengyuan Liu, **Nikhil Kandpal**, and Colin Raffel
 * [User Inference Attacks Against Large Language Models](https://arxiv.org/abs/2310.09266)
-    * **Nikhil Kandpal**, Krishna Pillutla, Alina Oprea, Peter Kairouz, Christopher A. Choquette-Choo, and Zheng Xu
-* [Backdoor Attacks for In-Context Learning with Language Models](https://arxiv.org/abs/2307.14692) at ***EMNLP 2024***
+    * **Nikhil Kandpal**, Krishna Pillutla, Alina Oprea, Peter Kairouz, Christopher A. Choquette-Choo, and Zheng Xu at ***EMNLP 2024***
+* [Backdoor Attacks for In-Context Learning with Language Models](https://arxiv.org/abs/2307.14692) at ***ICML 2023 AdvML Workshop***
     * **Nikhil Kandpal**, Matthew Jagielski, Florian Tramèr, and Nicholas Carlini
 * [Git-Theta: A Git Extension for Collaborative Development of Machine Learning Models](https://arxiv.org/abs/2306.04529) at ***ICML 2023***
     * **Nikhil Kandpal**\*, Brian Lester*, and 7 others
