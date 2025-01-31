@@ -40,7 +40,7 @@ During my Ph.D. I've worked at:
 ## Talks
 
 If any of these presentations seem interesting and you'd like to know more, feel free to send me an email.
-* [Building Machine Learning Models like Open-Source Software with Git Theta](assets/git_theta_slides.pdf) at **MLSys 2023**
+* [Building Machine Learning Models like Open-Source Software with Git Theta](assets/git_theta_slides.pdf) at **MLSys 2023**, June 2023
 * [Large Language Models Struggle to Learn Long-Tail Information](assets/long_tail_slides.pdf) at ***IBM Research Zurich***, February 2023
     * A presentation on two of our papers that analyze LLM behavior through the lens of their pre-training data
 * [Deduplicating Training Data Mitigates Privacy Risks in Language Models](https://slideslive.com/38983424) at ***ICML***, June 2022
