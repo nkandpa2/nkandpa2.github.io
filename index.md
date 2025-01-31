@@ -16,9 +16,11 @@ During my Ph.D. I've worked at:
 
 
 ## Publications and Preprints
+* [AttriBoT: A Bag of Tricks for Efficiently Approximating Leave-One-Out Context Attribution](https://arxiv.org/abs/2411.15102) at **ICLR 2025**
+    * Fengyuan Liu, **Nikhil Kandpal**, and Colin Raffel
 * [User Inference Attacks Against Large Language Models](https://arxiv.org/abs/2310.09266)
     * **Nikhil Kandpal**, Krishna Pillutla, Alina Oprea, Peter Kairouz, Christopher A. Choquette-Choo, and Zheng Xu
-* [Backdoor Attacks for In-Context Learning with Language Models](https://arxiv.org/abs/2307.14692) at ***AdvML Frontiers 2023***
+* [Backdoor Attacks for In-Context Learning with Language Models](https://arxiv.org/abs/2307.14692) at ***EMNLP 2024***
     * **Nikhil Kandpal**, Matthew Jagielski, Florian Tramèr, and Nicholas Carlini
 * [Git-Theta: A Git Extension for Collaborative Development of Machine Learning Models](https://arxiv.org/abs/2306.04529) at ***ICML 2023***
     * **Nikhil Kandpal**\*, Brian Lester*, and 7 others
@@ -38,6 +40,7 @@ During my Ph.D. I've worked at:
 ## Talks
 
 If any of these presentations seem interesting and you'd like to know more, feel free to send me an email.
+* [Building Machine Learning Models like Open-Source Software with Git Theta](assets/git_theta_slides.pdf) at **MLSys 2023**
 * [Large Language Models Struggle to Learn Long-Tail Information](assets/long_tail_slides.pdf) at ***IBM Research Zurich***, February 2023
     * A presentation on two of our papers that analyze LLM behavior through the lens of their pre-training data
 * [Deduplicating Training Data Mitigates Privacy Risks in Language Models](https://slideslive.com/38983424) at ***ICML***, June 2022
