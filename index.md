@@ -40,6 +40,8 @@ During my Ph.D. I've worked at:
 ## Talks
 
 If any of these presentations seem interesting and you'd like to know more, feel free to send me an email.
+* [Understanding Language Models Through the Lens of their Training Data](assets/MBZUAI_slides.pdf) at **MBZUAI**, June 2024
+    * A talk synthesizing my past papers and future research ideas on LLM interpretability
 * [Building Machine Learning Models like Open-Source Software with Git Theta](assets/git_theta_slides.pdf) at **MLSys 2023**, June 2023
     * A presentation on using our [Git Theta software package](https://github.com/r-three/git-theta) for collaborative model development
 * [Large Language Models Struggle to Learn Long-Tail Information](assets/long_tail_slides.pdf) at ***IBM Research Zurich***, February 2023
