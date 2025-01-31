@@ -16,7 +16,7 @@ During my Ph.D. I've worked at:
 
 
 ## Publications and Preprints
-* [AttriBoT: A Bag of Tricks for Efficiently Approximating Leave-One-Out Context Attribution](https://arxiv.org/abs/2411.15102) at **ICLR 2025**
+* [AttriBoT: A Bag of Tricks for Efficiently Approximating Leave-One-Out Context Attribution](https://arxiv.org/abs/2411.15102) at ***ICLR 2025***
     * Fengyuan Liu, **Nikhil Kandpal**, and Colin Raffel
 * [User Inference Attacks Against Large Language Models](https://arxiv.org/abs/2310.09266)
     * **Nikhil Kandpal**, Krishna Pillutla, Alina Oprea, Peter Kairouz, Christopher A. Choquette-Choo, and Zheng Xu at ***EMNLP 2024***
